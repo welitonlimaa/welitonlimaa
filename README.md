@@ -2,6 +2,7 @@
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning FullStack Web Development
 - 💞️ I’m looking to collaborate on social and environmental impact projects
+- :man_technologist: Portfolio link: https://welitonlimaa.github.io/portfolio/
 - 📫 How to reach me https://www.linkedin.com/in/weliton-lima/
 
 <!---
