@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning FullStack Web Development
 - 💞️ I’m looking to collaborate on social and environmental impact projects
 - :man_technologist: Portfolio link: https://welitonlimaa.github.io/portfolio/
-- 📫 How to reach me https://www.linkedin.com/in/weliton-lima/
+- 📫 How to reach me welitonlima159@gmail.com
 
 <!---
 welitonlimaa/welitonlimaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
