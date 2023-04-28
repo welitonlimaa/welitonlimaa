@@ -7,7 +7,7 @@
 
 <div>
 <a href="https://github.com/welitonlimaa">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=welitonlimaa&count_private=true&show_icons=true&theme=radical&title_color=FFFFFF&text_color=58C7AF&" alt="welitonlimaa" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=welitonlimaa&layout=compact&langs_count=7&theme=radical&title_color=FFFFFF&text_color=58C7AF&card_width=400px"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=welitonlimaa&count_private=true&show_icons=true&theme=radical&title_color=58C7AF&text_color=58C7AF&" alt="welitonlimaa" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=welitonlimaa&layout=compact&langs_count=7&theme=radical&title_color=58C7AF&text_color=58C7AF&card_width=400px"/>
 </div>
 
