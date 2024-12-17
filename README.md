@@ -7,7 +7,7 @@ I'm a self-taught Full Stack Web Developer with a passion for creating innovativ
 - Check out my portfolio ✨ [here](https://welitonlimaa.github.io/portfolio/) ✨
 
 ⚡ **Key Skills:**
-- Full Stack Development | Node.js | PHP | TypeScript | React.js
+- Full Stack Development | Java | Python
 - Database Management | MySQL | MongoDB
 - Containerization | Docker
 - Test-Driven Development (TDD)
