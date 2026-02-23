@@ -1,24 +1,44 @@
-### Hi there, I'm Weliton Lima! 👋
+# Hi, I'm Weliton Lima 👋  
 
-I'm a self-taught Full Stack Web Developer with a passion for creating innovative and user-friendly applications. I specialize in utilizing technologies like Node.js, PHP, TypeScript, React.js, MySQL, MongoDB, Docker, and Test-Driven Development (TDD) to build robust and scalable web solutions.
+Data Engineer and Backend Developer with hands-on experience in building and modernizing data pipelines and APIs in AWS environments.
 
-🔭 **Projects and Skills:**
-- In my portfolio, you'll find a collection of full stack projects that I've developed using various technologies. These projects demonstrate my proficiency in front-end and back-end development, database management, and deploying applications with Docker.
-- Check out my portfolio ✨ [here](https://welitonlimaa.github.io/portfolio/) ✨
+Currently working on corporate data migration and integration projects, with strong focus on Python, PySpark, AWS Glue, Lambda, S3 and scalable data processing architectures.
 
-⚡ **Key Skills:**
-- Full Stack Development | Java | Python
-- Database Management | MySQL | MongoDB
-- Containerization | Docker
-- Test-Driven Development (TDD)
+---
 
-🌱 **Learning and Growth:**
-- As a dedicated developer, I constantly seek opportunities to learn and expand my skillset. I stay updated with the latest industry trends and best practices to ensure that my projects are built using cutting-edge technologies.
+## 🚀 What I Do
 
-📫 **Get in touch:**
-- Feel free to reach out to me through [LinkedIn](https://www.linkedin.com/in/weliton-lima) or [email](mailto:welitonlimadev@gmail.com). I'm open to collaboration, discussing new projects, or connecting with fellow developers.
+- Design and develop ETL pipelines using **Python and PySpark**
+- Build and maintain data workflows in **AWS (Glue, Lambda, S3, Athena, SQS)**
+- Develop **REST APIs with FastAPI**
+- Work with data modeling, transformation and batch processing
+- Apply versioning, modularization and CI/CD best practices
+- Support analytics and business teams with reliable and well-structured data
 
-✨ **Let's connect and create something amazing together!**
+I have experience working in regulated and high-impact environments, dealing with critical data that requires traceability, stability and controlled reprocessing.
+
+---
+
+## 🛠 Tech Stack
+
+**Languages:** Python, Java, SQL, JavaScript/TypeScript  
+**Data Engineering:** PySpark, Pandas, ETL, Data Modeling  
+**Cloud:** AWS (Glue, Lambda, S3, Athena, SQS)  
+**Backend:** FastAPI, REST APIs  
+**Practices:** Git, CI/CD, Clean Code  
+
+---
+
+## 🌍 Professional Focus
+
+Focused on data engineering, backend development and cloud-based architectures, building scalable and maintainable solutions that solve real business problems.
+
+---
+
+## 📫 Contact
+
+LinkedIn: https://www.linkedin.com/in/welitonlimaa  
+Email: welitonlimadev@gmail.com  
 
 <div>
 <a href="https://github.com/welitonlimaa">
