@@ -40,3 +40,11 @@ Focused on data engineering, backend development and cloud-based architectures, 
 LinkedIn: https://www.linkedin.com/in/welitonlimaa  
 Email: welitonlimadev@gmail.com 
 
+<div>
+  <a href="https://github.com/welitonlimaa">
+    <img 
+      height="180em" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=welitonlimaa&layout=compact&langs_count=7&theme=radical&title_color=58C7AF&text_color=58C7AF" 
+    />
+  </a>
+</div>
