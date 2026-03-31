@@ -2,15 +2,14 @@
 
 Data Engineer and Backend Developer with hands-on experience in building and modernizing data pipelines and APIs in AWS environments.
 
-Currently working on corporate data migration and integration projects, with strong focus on Python, PySpark, AWS Glue, Lambda, S3 and scalable data processing architectures.
+Currently working on corporate data migration and integration projects, with strong focus on Java Spring Boot, Python, PySpark, AWS Glue, Lambda, S3 and scalable data processing architectures.
 
 ---
 
 ## 🚀 What I Do
-
+- Develop **REST APIs with Java Spring Boot and FastAPI**
 - Design and develop ETL pipelines using **Python and PySpark**
 - Build and maintain data workflows in **AWS (Glue, Lambda, S3, Athena, SQS)**
-- Develop **REST APIs with FastAPI**
 - Work with data modeling, transformation and batch processing
 - Apply versioning, modularization and CI/CD best practices
 - Support analytics and business teams with reliable and well-structured data
